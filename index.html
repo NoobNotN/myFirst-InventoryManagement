@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="gong_ju_bao/jquery.min.js"></script>
+    <script src="gong_ju_bao/react.development.js" crossorigin></script>
+    <script src="gong_ju_bao/babel.min.js"></script>
+    <script src="gong_ju_bao/react-dom.development.js"></script>
+    <link rel="stylesheet" href="gong_ju_bao/bootstrap.min.css">
+    <script src="gong_ju_bao/popper.min.js"></script>
+    <script src="gong_ju_bao/bootstrap.min.js"></script>
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <title>梅花K进销存</title>
+    <link href="css/gogogo.css" rel="stylesheet">
+<!--    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">-->
+<!--    </script>-->
+    <script src="js/gogogo.js" rel="script"> </script>
+
+</head>
+<body>
+<!--登录-->
+<div class="content" id="aad">
+    <div class="longin-boder" style="margin-top: 40%">
+        <input class="input" type="text" id="user" placeholder="输入用户名"/>
+    </div>
+    <!--End用户名输入框-->
+    <div class="longin-boder">
+        <input class="input" type="password"  id="password" placeholder="输入密码"/>
+    </div>
+    <!--End密码输入框-->
+    <div class="button" id="load">登录</div>
+    <div class="button" id="zhuce">注册</div>
+</div>
+<!--顶部ID部分-->
+<div class="top">
+    <div class="top-id"></div>
+    <div class="top-name">
+        <p style="font-size: 45px;margin: 0;margin-left: 100px;color: darkgrey">
+            梅花K进销存</p>
+        <p style=" margin: 0;">库存管理系统</p>
+    </div>
+</div>
+<!--底部店铺列表-->
+<div class="boxbottom">
+    <div class="boxbottom-i"id="1-1"
+         onclick="document.getElementById('1-1').style.color='aqua';
+                 document.getElementById('1-2').style.color='white';
+                 document.getElementById('1-3').style.color='white';">
+        <div id="x-1">Shop-1</div>(๑•ૅૄ•๑)
+    </div>
+    <div class="boxbottom-i"id="1-2"
+         onclick="document.getElementById('1-2').style.color='aqua';
+                 document.getElementById('1-1').style.color='white';
+                 document.getElementById('1-3').style.color='white';">
+        <div id="x-2">Shop-2</div>(˘͈ᵕ ˘͈❀)
+    </div>
+    <div class="boxbottom-i"id="1-3"
+         onclick="document.getElementById('1-3').style.color='aqua';
+                 document.getElementById('1-2').style.color='white';
+                 document.getElementById('1-1').style.color='white';">
+        <div id="x-3">Shop-3</div>( ๑ˊ•̥▵•)੭₎₎
+    </div>
+</div>
+<!--三个店铺页面-->
+<div class="mainbox" id="mainbox-1" style="left: 000%"><span style="display:none">1</span>
+    <div class="another" id="another1">+添加新商品+</div>
+</div>
+<div class="mainbox" id="mainbox-2" style="left: 100%">
+    <div class="another" id="another2">+添加新商品+</div><span style="display:none">2</span>
+</div>
+<div class="mainbox" id="mainbox-3" style="left: 200%">
+
+    <div class="another" id="another3">+添加新商品+</div><span style="display:none">3</span>
+</div>
+<!--进出货弹窗-->
+<div id="change">
+    <button type="submit" class="change-button"  id="reduce">出货</button>
+    <input type="number" id="change-input">
+    <button type="submit" class="change-button"  id="plus">进货</button>
+</div>
+<!--价格管理及货物名管理弹窗-->
+<div id="price-change">
+    <input type="text" id="price-change-input">
+    <button type="submit" class="change-button" id="prince-change-button"> 确定 </button>
+</div>
+<div id="name-change">
+    <input type="text" id="name-change-input">
+    <button type="submit" class="change-button" id="name-change-button"> 确定 </button>
+</div>
+</body>
+</html>

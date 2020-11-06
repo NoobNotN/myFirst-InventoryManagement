@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9aa72ce1-b457-4bea-b122-7510f2b893d0" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Robyph3dA9hKi1HqMWOl7brYqS" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\phpStudy\PHPTutorial\WWW\ggg" />
+      <recent name="C:\phpStudy\PHPTutorial\WWW\ggg\php" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="gogogo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/退换货/gogogo.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.gogogo.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aa72ce1-b457-4bea-b122-7510f2b893d0" name="默认的" comment="" />
+      <created>1570336652931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570336652931</updated>
+      <workItem from="1570336654318" duration="2617000" />
+      <workItem from="1570343275898" duration="3532000" />
+      <workItem from="1570352608384" duration="9251000" />
+      <workItem from="1570417620905" duration="23282000" />
+      <workItem from="1570510215188" duration="2000" />
+      <workItem from="1570531627490" duration="1686000" />
+      <workItem from="1570533904225" duration="7000" />
+      <workItem from="1570534249172" duration="5000" />
+      <workItem from="1570623323654" duration="916000" />
+      <workItem from="1570684601376" duration="321000" />
+      <workItem from="1570685074171" duration="501000" />
+      <workItem from="1570685674808" duration="260000" />
+      <workItem from="1570703745351" duration="5965000" />
+      <workItem from="1570710675253" duration="3290000" />
+      <workItem from="1570794337330" duration="12000" />
+      <workItem from="1570794430410" duration="15000" />
+      <workItem from="1570794486281" duration="4000" />
+      <workItem from="1570794513458" duration="3000" />
+      <workItem from="1570794533877" duration="10000" />
+      <workItem from="1570849102903" duration="701000" />
+      <workItem from="1570930629646" duration="1039000" />
+      <workItem from="1570932585467" duration="3000" />
+      <workItem from="1571051114007" duration="15621000" />
+      <workItem from="1571108026742" duration="15584000" />
+      <workItem from="1571127321181" duration="1163000" />
+      <workItem from="1571141380007" duration="2000" />
+      <workItem from="1571141675619" duration="28000" />
+      <workItem from="1571142789822" duration="3839000" />
+      <workItem from="1571236054359" duration="1812000" />
+      <workItem from="1571303993974" duration="885000" />
+      <workItem from="1571304979913" duration="1228000" />
+      <workItem from="1571308268832" duration="225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
